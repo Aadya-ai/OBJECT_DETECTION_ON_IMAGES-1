@@ -11,7 +11,7 @@ function third() {
 }
 
 function fourth() {
-    window.location.href = "https://aadya-ai.github.io/OBJECT_DETECTION_ON_IMAGES-5/";
+    window.location.href = "https://aadya-ai.github.io/OBJECT_DETECTION_ON_IMAGES-5";
 }
 
 function Kchat() {
